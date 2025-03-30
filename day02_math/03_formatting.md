@@ -1,6 +1,6 @@
 # Format strings
 
-Format strings also known as f-strins, are a way to embed expressions inside strings literals, using curly braces `{}`. There are several ways to format strings:
+Format strings also known as f-strings, are a way to embed expressions inside strings literals, using curly braces `{}`. There are several ways to format strings:
 
 1. Using function format():
 
